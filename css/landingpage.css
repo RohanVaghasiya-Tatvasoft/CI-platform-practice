@@ -1,0 +1,7 @@
+.dropdown{
+    display: inline-block;
+}
+
+body{
+    box-sizing: content-box;
+}
